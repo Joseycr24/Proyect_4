@@ -2,7 +2,7 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-df_vehicles = pd.read_csv('files/datasets/input/vehicles_us.csv') #Leer los datos
+df_vehicles = pd.read_csv('Proyecto_4/Proyect_4/DataFrame/vehicles_us.csv') #Leer los datos
 
 #Crear botones
 #-----------------------------------------------------------------------------------------
