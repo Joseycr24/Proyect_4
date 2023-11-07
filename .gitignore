@@ -160,5 +160,4 @@ cython_debug/
 #.idea/
 
 files
-*.ipynb
 vehicles_env
